@@ -1,0 +1,75 @@
+[ 
+    {
+        "id": "1",
+        "image_name": "face1.png",
+        "image_type": "Ribeira",
+        "people": [{
+                "point": {
+                    "x": 4680,
+                    "y": 2009
+                },
+                "size": {
+                    "height": 100,
+                    "width": 100
+                },
+                "gender": "Male",
+                "profile": "Adult"
+            }
+        ]
+    },    
+    {
+        "id": "2",
+        "image_name": "face2.png",
+        "image_type": "Ribeira",
+        "people": [{
+                "point": {
+                    "x": 933,
+                    "y": 2087
+                },
+                "size": {
+                    "height": 120,
+                    "width": 120
+                },
+                "gender": "Female",
+                "profile": "Adult"
+            }
+        ]
+    }, 
+{
+    "id": "3",
+    "image_name": "ribeira caras_1.png",
+    "image_type": "Type A",
+    "people": [{
+            "point": {
+                "x": 4685,
+                "y": 2009
+            },
+            "size": {
+                "height": 100,
+                "width": 80
+            },
+            "gender": "Male",
+            "profile": "Adult"
+        }
+    ]
+},
+{
+  "id": "4",
+  "image_name": "ribeira caras_1.png",
+  "image_type": "Type A",
+  "people": [{
+    "point": {
+        "x": 4685,
+        "y": 2009
+    },
+          "size": {
+              "height": 100,
+              "width": 80
+          },
+          "gender": "Female",
+          "profile": "Adult"
+      }
+  ]
+}
+
+]
